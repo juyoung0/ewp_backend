@@ -1,0 +1,7 @@
+INFO:root:Datahub is initated
+INFO:root:JSON Tree sturcture is initated
+INFO:root:History data is initated
+INFO:root:MongoConnection is initated
+DEBUG:root:Index : 2015-01-01 00:00:00
+INFO:root:Poll Thred Start
+INFO:root:Collection is initated
